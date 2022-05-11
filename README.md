@@ -9,13 +9,14 @@ Contenidos aplicados
 - La asincronía y el consumo de APIs
 
 Procedimiento 
-- Para ingresar a ver los archivos del proyecto, dirijase a la carpeta assets, y luego a los archivos js.
-- Acontinuacion de descargar el proyecto, desde VSC abra una nueva terminal y ejecutar : 
-- npm install y luego node 
-- app.js o puede ejecutar 
+- Descargar el proyecto, desde VSC abra una nueva terminal y ejecutar : 
+- npm install  
+- node app.js 
 - npm install -g nodemon  
 - scrip.js. 
-- Luego instalar el paquete de libreria Axios:  comandonpm i axios.
+- Luego instalar el paquete de librerias: 
+- npm i axios 
+- npm i update
 
 Integrantes
 - Adriana Oviedo
